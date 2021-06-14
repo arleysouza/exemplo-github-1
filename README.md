@@ -5,3 +5,4 @@ Exemplo de uso do GitHub
 | --- | ----------- |
 | Header | Title |
 | Paragraph | Text |
+| Paragraph | Text |
